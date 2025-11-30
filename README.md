@@ -1,4 +1,5 @@
 # future-forcasting
+
 ### **Forecasting Societal Events Using Neural Temporal Models Enhanced by LLM-Derived Event Semantics**
 
 Societies continuously produce political, social, and economic events that influence stability, risk, and development. Timely forecasting of such events—protests, conflicts, policy shifts, or economic disruptions—is crucial for governments, NGOs, and institutions. Traditional forecasting systems rely on limited structured datasets (e.g., ACLED, ICEWS, GDELT) and simplify events into predefined categories, losing important context and nuance. This project introduces a new framework that combines **neural temporal point processes** with **large language model (LLM)–derived semantic representations** to predict future societal events with significantly greater resolution and accuracy.
@@ -18,3 +19,7 @@ Evaluation will include accuracy on event type prediction, error in timing forec
 This project is both **technically feasible** and **novel**. All required datasets are public, the LLM component is lightweight (summarization + scoring), and the temporal model is compact enough for efficient training. The result will be a unified forecasting system that improves upon existing political event prediction frameworks by incorporating both **temporal patterns** and **contextual understanding** of events. The project has strong potential for academic publication, practical application in risk analysis, and long-term extensibility into global forecasting, early warning systems, and international relations modeling.
 
 This executive summary reflects a scalable, impactful, and research-worthy direction appropriate for a master’s capstone or early-stage academic research project.
+
+## Detailed Research Proposal
+
+See the full proposal in [`docs/Research_Proposal.md`](docs/Research_Proposal.md) for a comprehensive description of motivation, methodology, evaluation, and deliverables.
